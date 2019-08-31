@@ -1,16 +1,24 @@
 import React, { useState } from "react";
 import { createContainer } from "unstated-next";
 
-const useCounter = (initialState = 0) => {
+export interface ICounter {
+  count: number,
+  decrement: () => void,
+  increment: () => void,
+  reset: () => void,
+};
+
+export const useCounter = (initialState = 0): ICounter => {
   let [count, setCount] = useState(initialState);
   let decrement = () => setCount(count - 1);
   let increment = () => setCount(count + 1);
-  return { count, decrement, increment };
+  let reset = () => setCount(0);
+  return { count, decrement, increment, reset };
 }
 
-const Counter = createContainer(useCounter);
+export const Counter = createContainer(useCounter);
 
-const CounterDisplay = () => {
+export const CounterDisplay = () => {
   let counter = Counter.useContainer();
   return (
     <div>
