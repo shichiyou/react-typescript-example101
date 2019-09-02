@@ -7,18 +7,17 @@ afterEach(cleanup);
 
 test('<Starships />', async () => {
   const { container, getByText, debug } = render(<Starships />, )
-  debug()
+  // debug()
   // <div>
   //   <h1>Hello World</h1>
   // </div>
   // you can also pass an element: debug(getByTestId('messages'))
 
-  await waitForElement(() => { 
-    getByText(/Death/i);
-    // debug();
-  }).then(() => { debug(); });
+  expect(getByText(/^Loading...$/i).innerHTML).toBe('Loading...');
+  const el = await waitForElement(() =>  getByText(/^Death Star$/i));
   // await waitForDomChange(debug);
 
+  expect(el.innerHTML).toBe('Death Star');
   // debug()
 });
 
