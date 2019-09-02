@@ -1,5 +1,6 @@
 import React from 'react';
-import useStarshipsService from '../services/useStarshipsService';
+import { Service } from '../types/Service';
+import useStarshipsService, { IStarships } from '../services/useStarshipsService';
 
 const Starships: React.FC<{}> = () => {
   const service = useStarshipsService();

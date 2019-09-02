@@ -2,12 +2,12 @@ import { useEffect, useState } from 'react';
 import { Service } from '../types/Service';
 import { Starship } from '../types/Starship';
 
-export interface Starships {
+export interface IStarships {
   results: Starship[];
 }
 
 const useStarshipsService = () => {
-  const [result, setResult] = useState<Service<Starships>>({
+  const [result, setResult] = useState<Service<IStarships>>({
     status: 'loading'
   });
 

@@ -1,38 +1,41 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM, { unmountComponentAtNode } from 'react-dom';
 import { act } from 'react-dom/test-utils';
 import { shallow, mount, render } from 'enzyme';
+import { ShallowWrapper, ReactWrapper } from 'enzyme';
 import Starships from './Starships';
+import fetchMock from 'fetch-mock';
+import responseData from '../services/Starships.json';
+import toJson from 'enzyme-to-json';
 
-let container: HTMLElement | null;
+describe('<Starships />', () => {
+  let container: HTMLDivElement | Element | null;
 
-beforeEach(() => {
-  container = document.createElement('div');
-  document.body.appendChild(container);
-});
-
-afterEach(() => {
-  document.body.removeChild(container!);
-  container = null;
-});
-
-it('can render and update a Starships', () => {
-  const wrapper = shallow(<Starships />);
-
-  
-  // Test first render and effect
-  act(() => {
-    ReactDOM.render(<Starships />, container);
+  beforeAll(() => {
+    fetchMock.get('https://swapi.co/api/starships', JSON.stringify(responseData));
   });
-//   const button = container.querySelector('button');
-//   const label = container.querySelector('p');
-//   expect(label.textContent).toBe('You clicked 0 times');
-//   expect(document.title).toBe('You clicked 0 times');
+  afterAll(() => {
+    fetchMock.restore();
+  });
 
-//   // Test second render and effect
-//   act(() => {
-//     button.dispatchEvent(new MouseEvent('click', {bubbles: true}));
-//   });
-//   expect(label.textContent).toBe('You clicked 1 times');
-//   expect(document.title).toBe('You clicked 1 times');
+  test("it shows a list of starships", async () => {
+    let wrapper: ReactWrapper;
+
+    // Test first render and effect
+    act(() => {
+      wrapper = mount(<Starships />);
+      expect(wrapper!.text()).toBe('Loading...');
+      wrapper!.update();
+      expect(toJson(wrapper!)).toMatchSnapshot('step 2');
+      wrapper!.update();
+      expect(toJson(wrapper!)).toMatchSnapshot('step 3');
+      wrapper!.update();
+      expect(toJson(wrapper!)).toMatchSnapshot('step 4');
+      wrapper!.update();
+    });
+
+
+
+    wrapper!.unmount();
+});  
 });
