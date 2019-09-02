@@ -6,13 +6,14 @@ export interface Starships {
   results: Starship[];
 }
 
-const usePostStarshipService = () => {
+const useStarshipsService = () => {
   const [result, setResult] = useState<Service<Starships>>({
     status: 'loading'
   });
 
   useEffect(() => {
     fetch('https://swapi.co/api/starships')
+      // .then(response => { console.log(response); return response })
       .then(response => response.json())
       .then(response => setResult({ status: 'loaded', payload: response }))
       .catch(error => setResult({ status: 'error', error }));
@@ -21,4 +22,4 @@ const usePostStarshipService = () => {
   return result;
 };
 
-export default usePostStarshipService;
+export default useStarshipsService;

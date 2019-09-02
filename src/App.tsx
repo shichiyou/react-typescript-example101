@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { CounterUI } from './Counter';
+import { CounterUI } from './components/Counter';
 
 const App: React.FC = () => {
   return (
