@@ -1,7 +1,7 @@
+import { mount } from 'enzyme';
 import React from 'react';
 import { act } from 'react-dom/test-utils';
-import { useCounter, Counter, ICounter } from './Counter';
-import { shallow, mount, render } from 'enzyme';
+import { Counter, ICounter } from './Counter';
 // import { createContainer, useContainer } from "unstated-next";
 
 const TestHook: React.FC<{ callback: any }> = ({ callback }) => {

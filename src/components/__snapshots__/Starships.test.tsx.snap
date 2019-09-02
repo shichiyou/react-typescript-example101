@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Starships /> 1`] = `"<div><div>Executor</div></div>"`;
+
+exports[`Starships <Starships /> 1`] = `"<div><div>Executor</div></div>"`;
