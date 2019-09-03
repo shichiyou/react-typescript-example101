@@ -1,7 +1,7 @@
 import { mount } from 'enzyme';
 import React from 'react';
 import { act } from 'react-dom/test-utils';
-import { Counter, ICounter } from './Counter';
+import { CounterContainer, ICounter } from './Counter';
 // import { createContainer, useContainer } from "unstated-next";
 
 const TestHook: React.FC<{ callback: any }> = ({ callback }) => {
@@ -10,7 +10,7 @@ const TestHook: React.FC<{ callback: any }> = ({ callback }) => {
 };
 
 const testHook = (callback: Function) => {
-  mount(<Counter.Provider><TestHook callback={callback} /></Counter.Provider>);
+  mount(<CounterContainer.Provider><TestHook callback={callback} /></CounterContainer.Provider>);
 };
 
 describe('Counter test suite', () => {
@@ -18,7 +18,7 @@ describe('Counter test suite', () => {
 
   beforeEach(() => {
     testHook(() => {
-      counter = Counter.useContainer();
+      counter = CounterContainer.useContainer();
     });
   });
 

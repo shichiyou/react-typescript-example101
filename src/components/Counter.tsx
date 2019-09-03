@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { createContainer } from "unstated-next";
+import classnames from 'classnames';
 
 export interface ICounter {
   count: number,
@@ -16,31 +17,35 @@ export const useCounter = (initialState = 0): ICounter => {
   return { count, decrement, increment, reset };
 }
 
-export const Counter = createContainer(useCounter);
+export const CounterContainer = createContainer(useCounter);
 
 export const CounterDisplay = () => {
-  let counter = Counter.useContainer();
+  let counter = CounterContainer.useContainer();
+
+  const decrementClass = classnames('decrement', [ ]);
+  const incrementClass = classnames('increment', [ ]);
+  const countClass = classnames('count', [ ]);
   return (
     <div>
-      <button onClick={counter.decrement}>-</button>
-      <span>{counter.count}</span>
-      <button onClick={counter.increment}>+</button>
+      <button className={decrementClass} onClick={counter.decrement}>-</button>
+      <span className={countClass}>{counter.count}</span>
+      <button className={incrementClass} onClick={counter.increment}>+</button>
     </div>
   );
 }
 
 export const CounterUI = () => {
     return (
-      <Counter.Provider>
+      <CounterContainer.Provider>
         <CounterDisplay />
-        <Counter.Provider initialState={2}>
+        <CounterContainer.Provider initialState={2}>
           <div>
             <div>
               <CounterDisplay />
             </div>
           </div>
-        </Counter.Provider>
-      </Counter.Provider>
+        </CounterContainer.Provider>
+      </CounterContainer.Provider>
     );
 }
 
