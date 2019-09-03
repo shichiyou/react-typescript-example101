@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { createContainer } from "unstated-next";
 import classnames from 'classnames';
+import Button from '@material-ui/core/Button';
 
 export interface ICounter {
   count: number,
@@ -25,11 +26,12 @@ export const CounterDisplay = () => {
   const decrementClass = classnames('decrement', [ ]);
   const incrementClass = classnames('increment', [ ]);
   const countClass = classnames('count', [ ]);
+  const containerClass = classnames('counter', [ ]);
   return (
-    <div>
-      <button className={decrementClass} onClick={counter.decrement}>-</button>
-      <span className={countClass}>{counter.count}</span>
-      <button className={incrementClass} onClick={counter.increment}>+</button>
+    <div className={containerClass} style={{ backgroundColor: 'white' }}>
+      <Button className={decrementClass} onClick={counter.decrement}>-</Button>
+      <span className={countClass} style={{ color: 'black' }}>{counter.count}</span>
+      <Button className={incrementClass} onClick={counter.increment}>+</Button>
     </div>
   );
 }
