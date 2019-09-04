@@ -29,9 +29,9 @@ export const CounterDisplay = () => {
   const containerClass = classnames('counter', [ ]);
   return (
     <div className={containerClass} style={{ backgroundColor: 'white' }}>
-      <Button className={decrementClass} onClick={counter.decrement}>-</Button>
-      <span className={countClass} style={{ color: 'black' }}>{counter.count}</span>
-      <Button className={incrementClass} onClick={counter.increment}>+</Button>
+      <Button variant="contained" color="primary" className={decrementClass} onClick={counter.decrement}>-</Button>
+      <span className={countClass} style={{ color: 'black', margin: '20px' }}>{counter.count}</span>
+      <Button variant="contained" color="primary" className={incrementClass} onClick={counter.increment}>+</Button>
     </div>
   );
 }

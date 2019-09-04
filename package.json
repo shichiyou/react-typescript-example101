@@ -5,9 +5,17 @@
   "dependencies": {
     "@material-ui/core": "^4.4.0",
     "@material-ui/icons": "^4.2.1",
+    "@material-ui/styles": "^4.3.3",
+    "@types/react-router-dom": "^4.3.5",
+    "chartist": "^0.11.3",
     "classnames": "^2.2.6",
+    "perfect-scrollbar": "^1.4.0",
+    "prop-types": "^15.7.2",
     "react": "16",
+    "react-chartist": "^0.13.3",
     "react-dom": "16",
+    "react-google-maps": "^9.4.5",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.1",
     "typescript": "3.6.2",
     "unstated-next": "^1.1.0"
