@@ -51,15 +51,28 @@ const useStyles = makeStyles((theme: Theme) =>
       overflowX: 'auto',
     },
     table: {
-      minWidth: 700,
+      minWidth: 4000,
     },
   }),
 );
+
+function displayEffectiveDate(date: Date, today: Date): string {
+  let result: string = '現在値';
+
+  if ((date.getFullYear() !== today.getFullYear())
+  || (date.getMonth() !== today.getMonth())
+  || (date.getDate() !== today.getDate())) {
+    result = date.toLocaleDateString();
+  }
+
+  return result;
+}
 
 const Home: React.FC = () => {
   const classes = useStyles();
   const config = useConfigurationService();
   const service = useStoresService();
+  const now = new Date(Date.now());
 
   return (
     <Paper className={classes.root}>
@@ -77,7 +90,7 @@ const Home: React.FC = () => {
               <StyledTableCell>店舗コード</StyledTableCell>
               <StyledTableCell>適用日</StyledTableCell>
               {config.payload.propertiyDefines!.map(define => (
-                <StyledTableCell>{define.displayName}</StyledTableCell>
+                <StyledTableCell key={define.id}>{define.displayName}</StyledTableCell>
               ))}
             </TableRow>              
           }
@@ -92,19 +105,20 @@ const Home: React.FC = () => {
           }
           {config.status === 'loaded' && service.status === 'loaded' &&
             service.payload.items!.map(store => 
-              store.propertyStatus!.map(row => 
-                (<StyledTableRow>
+              store.propertyStatus!.map(row => {
+                return (<StyledTableRow key={store.storeCode + '-' + row.effectiveDate}>
                   <StyledTableCell component="th" scope="row">
                     {store.storeCode}
                   </StyledTableCell>
-                  <StyledTableCell>{row.effectiveDate!.toLocaleDateString()}</StyledTableCell>
+                  <StyledTableCell>{displayEffectiveDate(row.effectiveDate!, now)}</StyledTableCell>
                   {config.payload.propertiyDefines!.map(define => {
                     const item = row.properties!.find(x => x.propertyId === define.id);
                     return (
-                      <StyledTableCell>{item!.propertyValue}</StyledTableCell>
+                      <StyledTableCell key={define.id + '-' + store.storeCode + '-' + row.effectiveDate}>{item!.propertyValue}</StyledTableCell>
                     );                    
                   })}
                 </StyledTableRow>)
+                }
               )
             )
           }

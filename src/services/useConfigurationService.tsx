@@ -4,7 +4,6 @@ import { Client, ConfigurationData } from '../api/client';
 import fetchMock from 'fetch-mock';
 import responseData from '../assets/fakes/configurationResponse.json';
 
-fetchMock.get('https://localhost:5001/api/Configuiration', JSON.stringify(responseData));
 
 const useConfigurationService = () => {
   const [result, setResult] = useState<Service<ConfigurationData>>({
@@ -12,6 +11,8 @@ const useConfigurationService = () => {
   });
 
   useEffect(() => {
+    fetchMock.get('https://localhost:5001/api/Configuiration', JSON.stringify(responseData), { overwriteRoutes: true });
+
     (new Client('https://localhost:5001')).configuiration()
       .then(response => setResult({ status: 'loaded', payload: response }))
       .catch(error => setResult({ status: 'error', error }));
