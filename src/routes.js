@@ -15,6 +15,7 @@
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 */
+import Home from './views/Home';
 // @material-ui/icons
 import Dashboard from "@material-ui/icons/Dashboard";
 import Person from "@material-ui/icons/Person";
@@ -67,6 +68,14 @@ const dashboardRoutes = [
     rtlName: "طباعة",
     icon: LibraryBooks,
     component: Typography,
+    layout: "/admin"
+  },
+  {
+    path: "/home",
+    name: "Home",
+    rtlName: "الرموز",
+    icon: BubbleChart,
+    component: Home,
     layout: "/admin"
   },
   {

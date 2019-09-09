@@ -1,0 +1,2298 @@
+{
+    "items": [
+      {
+        "id": "10000",
+        "storeCode": "10000",
+        "propertyDefines": null,
+        "propertyStatus": [
+          {
+            "isActive": true,
+            "effectiveDate": "2019-09-05T00:00:00+09:00",
+            "properties": [
+              {
+                "id": "83fa1a68-35ea-430c-89f3-0609385ad615",
+                "storeCode": "10000",
+                "propertyName": "車両(車種/台数)",
+                "propertyValue": "​自転車7台",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2659ea43-7334-4d16-bf02-24f31bc3d5ba"
+              },
+              {
+                "id": "07be6d89-9efd-44c6-bc1c-073ba9a11623",
+                "storeCode": "10000",
+                "propertyName": "住所・〒",
+                "propertyValue": "〒460-0008愛知県名古屋市中区栄5‐7‐7",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "49b08819-5ab1-49e7-98bd-cdac5abb0782"
+              },
+              {
+                "id": "75ff8e5d-5742-4dea-b4a8-2756a09a73ca",
+                "storeCode": "10000",
+                "propertyName": "営業時間",
+                "propertyValue": "11:00～25:00",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3c818f4f-325d-4fe6-beb7-15e024fc35db"
+              },
+              {
+                "id": "ac73973b-8fb4-4f6b-ac87-28c55230839c",
+                "storeCode": "10000",
+                "propertyName": "出店区分",
+                "propertyValue": "新店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b03712aa-6ad1-47ea-af0b-45f3c8fed67e"
+              },
+              {
+                "id": "748bc44f-acdd-4026-8e2a-29d68a392204",
+                "storeCode": "10000",
+                "propertyName": "店舗引渡し日",
+                "propertyValue": "2019/06/13 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61fa9dd6-2148-44f1-aac8-0e9c49cf068d"
+              },
+              {
+                "id": "77671482-e9ee-4a98-9c8a-3e27c4594344",
+                "storeCode": "10000",
+                "propertyName": "SVR名",
+                "propertyValue": "森永SVR",
+                "startDate": "2019-09-01T00:00:00",
+                "endDate": null,
+                "propertyId": "7ac09949-0eb0-4c4b-a5c8-df9c4059f28a"
+              },
+              {
+                "id": "0c7bfcb3-b5e6-44f0-a7f8-44d3011bc87a",
+                "storeCode": "10000",
+                "propertyName": "DPII.No",
+                "propertyValue": "10000",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "29e98474-c304-453f-9619-8637dac21f64"
+              },
+              {
+                "id": "2ba899bc-c5d4-4f3d-bec2-4966e3670687",
+                "storeCode": "10000",
+                "propertyName": "IPアドレス",
+                "propertyValue": "172.19.42.x",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "9c7eca50-6726-43d6-a85a-fba3c79ca9f3"
+              },
+              {
+                "id": "07be5f6b-7a96-4f47-9e13-4c44de8d27ac",
+                "storeCode": "10000",
+                "propertyName": "オーブンタイプ",
+                "propertyValue": "&lt;選択してください&gt;",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "cea8a008-3878-4af9-9001-bbc045448a77"
+              },
+              {
+                "id": "be916b81-03ab-40f3-a34c-5030fb2782a3",
+                "storeCode": "10000",
+                "propertyName": "TV Market",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "af40d01c-705f-4262-bb47-728f8a12787b"
+              },
+              {
+                "id": "25fbdf12-64bd-4474-8576-65c30a11059e",
+                "storeCode": "10000",
+                "propertyName": "店舗名",
+                "propertyValue": "本部",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "d285e8a6-448d-47c3-9447-1362b284d025"
+              },
+              {
+                "id": "d3a259e2-e1df-47df-90a3-79ec6e7c5ccd",
+                "storeCode": "10000",
+                "propertyName": "最終営業日",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "da15c47c-6174-4cf8-9053-dc2d226d3941"
+              },
+              {
+                "id": "60e49353-c966-43e6-99cf-7d0599560ef3",
+                "storeCode": "10000",
+                "propertyName": "包材・備品初回曜日",
+                "propertyValue": "木",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2cbc89a3-2a23-4113-8f32-a7e7fb6311b0"
+              },
+              {
+                "id": "9092baae-b55a-4c92-8e64-9abd57211e89",
+                "storeCode": "10000",
+                "propertyName": "State",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "0da774e9-b57f-423e-9242-96bd832a0e1e"
+              },
+              {
+                "id": "3aa2bd3b-1f91-4366-a481-a1e66055f8f5",
+                "storeCode": "10000",
+                "propertyName": "確定商圏",
+                "propertyValue": "確定商圏",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ea2230a1-d222-4165-9549-bac2a195171b"
+              },
+              {
+                "id": "9c3fe216-7bdb-4366-b095-a25d06949abc",
+                "storeCode": "10000",
+                "propertyName": "クリーニング業者",
+                "propertyValue": "ダスキン上前津支店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2b8666ef-b78d-4e16-9ceb-69c9b7f008ca"
+              },
+              {
+                "id": "29e9e701-2bf8-4437-84f5-badc21cdd4ca",
+                "storeCode": "10000",
+                "propertyName": "電話番号",
+                "propertyValue": "052-249-8484",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2e9afb2c-8545-4a5e-97e5-49fd455b74f1"
+              },
+              {
+                "id": "b6621f05-e896-4c25-9f80-bfcf738acb1a",
+                "storeCode": "10000",
+                "propertyName": "廃棄物収集業者",
+                "propertyValue": "大和エネルフ㈱",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ac4a9d64-9cb5-4d06-935f-26883d4cd93b"
+              },
+              {
+                "id": "6233e441-8927-4df8-b582-c183c21d72d2",
+                "storeCode": "10000",
+                "propertyName": "食材納品日",
+                "propertyValue": "43630",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "52c2a646-dd70-4543-81d2-e16b6d2367f6"
+              },
+              {
+                "id": "d584dfed-894e-4fc6-af7d-c4f15490a85b",
+                "storeCode": "10000",
+                "propertyName": "ユーザーまたはグループ",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3263a1f3-e296-4b9b-9873-e2b5401df99f"
+              },
+              {
+                "id": "b3514b3f-d3bd-4e48-b467-d3898b7b6bf1",
+                "storeCode": "10000",
+                "propertyName": "マッシュルーム初回発注日",
+                "propertyValue": "2019/06/10 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "6f7d89fd-f021-42ac-a9c6-e65a2e4ae312"
+              },
+              {
+                "id": "a67beaa2-8c1d-4b86-92ff-db221799e409",
+                "storeCode": "10000",
+                "propertyName": "包材・備品_初回納品日",
+                "propertyValue": "43629",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b9dad767-7097-44c5-ad02-ac7f6cc14a04"
+              },
+              {
+                "id": "72741e69-06b0-4c97-8263-f482c1d36cb9",
+                "storeCode": "10000",
+                "propertyName": "工事費見積額",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7b07fed2-ddbc-410e-b540-9f2a988ab300"
+              },
+              {
+                "id": "5c7cd0b5-f8e6-43c5-82a4-f652d46cfffe",
+                "storeCode": "10000",
+                "propertyName": "食材配送グループ",
+                "propertyValue": "D",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61a11c89-7030-46ac-8691-8ef66d4ee6cc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10626",
+        "storeCode": "10626",
+        "propertyDefines": null,
+        "propertyStatus": [
+          {
+            "isActive": true,
+            "effectiveDate": "2019-09-05T00:00:00+09:00",
+            "properties": [
+              {
+                "id": "afd72fc3-ceea-4957-a47a-f8a63ae1a733",
+                "storeCode": "10626",
+                "propertyName": "IPアドレス",
+                "propertyValue": "172.19.42.x",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "9c7eca50-6726-43d6-a85a-fba3c79ca9f3"
+              },
+              {
+                "id": "5a8f908d-a83e-4ec2-89cb-de7f1992cf14",
+                "storeCode": "10626",
+                "propertyName": "工事費見積額",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7b07fed2-ddbc-410e-b540-9f2a988ab300"
+              },
+              {
+                "id": "78e5cdb4-9389-4d4f-b8e7-cceac4b64a41",
+                "storeCode": "10626",
+                "propertyName": "包材・備品_初回納品日",
+                "propertyValue": "43629",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b9dad767-7097-44c5-ad02-ac7f6cc14a04"
+              },
+              {
+                "id": "4b256b64-ff13-4864-898a-c427f439cbd7",
+                "storeCode": "10626",
+                "propertyName": "DPII.No",
+                "propertyValue": "10626",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "29e98474-c304-453f-9619-8637dac21f64"
+              },
+              {
+                "id": "1fafcd9a-d491-4e2b-9d62-c04d898c3a90",
+                "storeCode": "10626",
+                "propertyName": "確定商圏",
+                "propertyValue": "確定商圏",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ea2230a1-d222-4165-9549-bac2a195171b"
+              },
+              {
+                "id": "07f8b341-bd6b-4f19-b857-acd4f0a4ee8d",
+                "storeCode": "10626",
+                "propertyName": "車両(車種/台数)",
+                "propertyValue": "​自転車7台",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2659ea43-7334-4d16-bf02-24f31bc3d5ba"
+              },
+              {
+                "id": "1e387ea7-89c6-42fe-8424-b07c0c3ecac1",
+                "storeCode": "10626",
+                "propertyName": "営業時間",
+                "propertyValue": "11:00～25:00",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3c818f4f-325d-4fe6-beb7-15e024fc35db"
+              },
+              {
+                "id": "ffca17ce-33c1-4aef-995b-b1db7e6a1e7d",
+                "storeCode": "10626",
+                "propertyName": "包材・備品初回曜日",
+                "propertyValue": "木",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2cbc89a3-2a23-4113-8f32-a7e7fb6311b0"
+              },
+              {
+                "id": "31a5f3e5-cc70-41f3-ba8e-a62342f633d0",
+                "storeCode": "10626",
+                "propertyName": "店舗引渡し日",
+                "propertyValue": "2019/06/13 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61fa9dd6-2148-44f1-aac8-0e9c49cf068d"
+              },
+              {
+                "id": "257d7064-63e5-46c5-8c76-9c78e55c4629",
+                "storeCode": "10626",
+                "propertyName": "出店区分",
+                "propertyValue": "新店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b03712aa-6ad1-47ea-af0b-45f3c8fed67e"
+              },
+              {
+                "id": "1f87c6e9-c74e-4808-aa22-92dac892fd46",
+                "storeCode": "10626",
+                "propertyName": "食材納品日",
+                "propertyValue": "43630",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "52c2a646-dd70-4543-81d2-e16b6d2367f6"
+              },
+              {
+                "id": "9c58f899-83ed-4dba-bfe2-98e20d6157ac",
+                "storeCode": "10626",
+                "propertyName": "マッシュルーム初回発注日",
+                "propertyValue": "2019/06/10 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "6f7d89fd-f021-42ac-a9c6-e65a2e4ae312"
+              },
+              {
+                "id": "499b08fd-9769-45a5-9bb3-8ae224d37b36",
+                "storeCode": "10626",
+                "propertyName": "State",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "0da774e9-b57f-423e-9242-96bd832a0e1e"
+              },
+              {
+                "id": "fe999793-c48f-484b-806b-8dbafe27cda6",
+                "storeCode": "10626",
+                "propertyName": "住所・〒",
+                "propertyValue": "〒460-0008愛知県名古屋市中区栄5‐7‐7",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "49b08819-5ab1-49e7-98bd-cdac5abb0782"
+              },
+              {
+                "id": "cdbc4805-bcf0-48a8-b4eb-6b49583a6d47",
+                "storeCode": "10626",
+                "propertyName": "オーブンタイプ",
+                "propertyValue": "&lt;選択してください&gt;",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "cea8a008-3878-4af9-9001-bbc045448a77"
+              },
+              {
+                "id": "6c7154ae-c8bf-484a-bd45-74eac81488ce",
+                "storeCode": "10626",
+                "propertyName": "クリーニング業者",
+                "propertyValue": "ダスキン上前津支店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2b8666ef-b78d-4e16-9ceb-69c9b7f008ca"
+              },
+              {
+                "id": "c5b3ab0b-6a81-4f60-9cf2-50523cae5ad3",
+                "storeCode": "10626",
+                "propertyName": "電話番号",
+                "propertyValue": "052-249-8484",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2e9afb2c-8545-4a5e-97e5-49fd455b74f1"
+              },
+              {
+                "id": "a830cdc0-d6f0-4237-bfe0-3c215e603d1e",
+                "storeCode": "10626",
+                "propertyName": "最終営業日",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "da15c47c-6174-4cf8-9053-dc2d226d3941"
+              },
+              {
+                "id": "8b544bb6-b326-4dd3-a124-28fd328588f5",
+                "storeCode": "10626",
+                "propertyName": "店舗名",
+                "propertyValue": "銀座マロニエ通り",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "d285e8a6-448d-47c3-9447-1362b284d025"
+              },
+              {
+                "id": "a7ac5b2c-5674-4b0c-87d8-2e7b0444f106",
+                "storeCode": "10626",
+                "propertyName": "SVR名",
+                "propertyValue": "福原SVR",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7ac09949-0eb0-4c4b-a5c8-df9c4059f28a"
+              },
+              {
+                "id": "80332dc2-2a90-4072-b8cd-3417a05a4706",
+                "storeCode": "10626",
+                "propertyName": "TV Market",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "af40d01c-705f-4262-bb47-728f8a12787b"
+              },
+              {
+                "id": "aab096fa-b919-43d4-b8d8-11a2828a65b4",
+                "storeCode": "10626",
+                "propertyName": "廃棄物収集業者",
+                "propertyValue": "大和エネルフ㈱",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ac4a9d64-9cb5-4d06-935f-26883d4cd93b"
+              },
+              {
+                "id": "92bc43e1-2919-4039-a0af-1b3e9de4b71d",
+                "storeCode": "10626",
+                "propertyName": "食材配送グループ",
+                "propertyValue": "D",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61a11c89-7030-46ac-8691-8ef66d4ee6cc"
+              },
+              {
+                "id": "0dd45a13-6551-4956-9b15-0a649bde71ec",
+                "storeCode": "10626",
+                "propertyName": "ユーザーまたはグループ",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3263a1f3-e296-4b9b-9873-e2b5401df99f"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11830",
+        "storeCode": "11830",
+        "propertyDefines": null,
+        "propertyStatus": [
+          {
+            "isActive": true,
+            "effectiveDate": "2019-09-05T00:00:00+09:00",
+            "properties": [
+              {
+                "id": "9b83b5be-f833-479c-92a7-0df894da8028",
+                "storeCode": "11830",
+                "propertyName": "出店区分",
+                "propertyValue": "新店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b03712aa-6ad1-47ea-af0b-45f3c8fed67e"
+              },
+              {
+                "id": "092248aa-eda2-4eb5-bdd0-0eec9ca39ba4",
+                "storeCode": "11830",
+                "propertyName": "店舗名",
+                "propertyValue": "ノースポート・モール",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "d285e8a6-448d-47c3-9447-1362b284d025"
+              },
+              {
+                "id": "1fa4decc-25d0-4063-90a7-0effa7a34b32",
+                "storeCode": "11830",
+                "propertyName": "TV Market",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "af40d01c-705f-4262-bb47-728f8a12787b"
+              },
+              {
+                "id": "66f8d451-d623-472b-98a3-02171172917f",
+                "storeCode": "11830",
+                "propertyName": "State",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "0da774e9-b57f-423e-9242-96bd832a0e1e"
+              },
+              {
+                "id": "3da64a11-995c-465d-a960-31b2d34f359b",
+                "storeCode": "11830",
+                "propertyName": "包材・備品初回曜日",
+                "propertyValue": "木",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2cbc89a3-2a23-4113-8f32-a7e7fb6311b0"
+              },
+              {
+                "id": "b789f9d8-5ac5-4599-9ae9-4b939694a840",
+                "storeCode": "11830",
+                "propertyName": "食材納品日",
+                "propertyValue": "43630",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "52c2a646-dd70-4543-81d2-e16b6d2367f6"
+              },
+              {
+                "id": "2cb24627-e9c1-4d73-9f77-587d52ec7530",
+                "storeCode": "11830",
+                "propertyName": "包材・備品_初回納品日",
+                "propertyValue": "43629",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b9dad767-7097-44c5-ad02-ac7f6cc14a04"
+              },
+              {
+                "id": "51961f82-6ecc-46b9-a409-5887f5f27b31",
+                "storeCode": "11830",
+                "propertyName": "営業時間",
+                "propertyValue": "11:00～25:00",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3c818f4f-325d-4fe6-beb7-15e024fc35db"
+              },
+              {
+                "id": "409d15b2-0586-4ea7-9f09-794108cd8d80",
+                "storeCode": "11830",
+                "propertyName": "店舗引渡し日",
+                "propertyValue": "2019/06/13 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61fa9dd6-2148-44f1-aac8-0e9c49cf068d"
+              },
+              {
+                "id": "56b243a1-643f-43f3-9920-90e234696912",
+                "storeCode": "11830",
+                "propertyName": "IPアドレス",
+                "propertyValue": "172.19.42.x",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "9c7eca50-6726-43d6-a85a-fba3c79ca9f3"
+              },
+              {
+                "id": "9327998c-57a9-4d49-826e-7f395b348a8c",
+                "storeCode": "11830",
+                "propertyName": "食材配送グループ",
+                "propertyValue": "D",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61a11c89-7030-46ac-8691-8ef66d4ee6cc"
+              },
+              {
+                "id": "0e0f5e34-283f-4f70-af65-81a89cd9ee6d",
+                "storeCode": "11830",
+                "propertyName": "DPII.No",
+                "propertyValue": "11830",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "29e98474-c304-453f-9619-8637dac21f64"
+              },
+              {
+                "id": "90330e91-e423-48b4-9f18-9e0ddef53644",
+                "storeCode": "11830",
+                "propertyName": "車両(車種/台数)",
+                "propertyValue": "​自転車7台",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2659ea43-7334-4d16-bf02-24f31bc3d5ba"
+              },
+              {
+                "id": "7088bc73-9bb2-484f-b3b5-9c4f21284fd7",
+                "storeCode": "11830",
+                "propertyName": "最終営業日",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "da15c47c-6174-4cf8-9053-dc2d226d3941"
+              },
+              {
+                "id": "1192015c-f7d4-4fb5-822f-ab5cc39df950",
+                "storeCode": "11830",
+                "propertyName": "廃棄物収集業者",
+                "propertyValue": "大和エネルフ㈱",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ac4a9d64-9cb5-4d06-935f-26883d4cd93b"
+              },
+              {
+                "id": "f8ecccb8-cf41-407e-b186-c6f83a274fd2",
+                "storeCode": "11830",
+                "propertyName": "クリーニング業者",
+                "propertyValue": "ダスキン上前津支店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2b8666ef-b78d-4e16-9ceb-69c9b7f008ca"
+              },
+              {
+                "id": "e5eaaa1b-24ee-412b-a6f1-c884251c6558",
+                "storeCode": "11830",
+                "propertyName": "SVR名",
+                "propertyValue": "福原SVR",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7ac09949-0eb0-4c4b-a5c8-df9c4059f28a"
+              },
+              {
+                "id": "b15e4cf2-19e2-43b3-85b9-dcfe6cca3cdd",
+                "storeCode": "11830",
+                "propertyName": "確定商圏",
+                "propertyValue": "確定商圏",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ea2230a1-d222-4165-9549-bac2a195171b"
+              },
+              {
+                "id": "e4aa5d48-382a-42ea-b953-dcffa0ce0ca8",
+                "storeCode": "11830",
+                "propertyName": "工事費見積額",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7b07fed2-ddbc-410e-b540-9f2a988ab300"
+              },
+              {
+                "id": "98ae5c75-be40-4144-843b-e2769e504bf8",
+                "storeCode": "11830",
+                "propertyName": "ユーザーまたはグループ",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3263a1f3-e296-4b9b-9873-e2b5401df99f"
+              },
+              {
+                "id": "49f1e28c-b280-4870-9676-fd201fcadce6",
+                "storeCode": "11830",
+                "propertyName": "オーブンタイプ",
+                "propertyValue": "&lt;選択してください&gt;",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "cea8a008-3878-4af9-9001-bbc045448a77"
+              },
+              {
+                "id": "c80ea5cc-59bb-46c6-ab7a-fe7422de344e",
+                "storeCode": "11830",
+                "propertyName": "マッシュルーム初回発注日",
+                "propertyValue": "2019/06/10 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "6f7d89fd-f021-42ac-a9c6-e65a2e4ae312"
+              },
+              {
+                "id": "cb32c164-dfa1-4104-be5b-f0f6ee7721de",
+                "storeCode": "11830",
+                "propertyName": "住所・〒",
+                "propertyValue": "〒460-0008愛知県名古屋市中区栄5‐7‐7",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "49b08819-5ab1-49e7-98bd-cdac5abb0782"
+              },
+              {
+                "id": "c8a8b900-9871-4778-b6f2-f000e1ef14eb",
+                "storeCode": "11830",
+                "propertyName": "電話番号",
+                "propertyValue": "052-249-8484",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2e9afb2c-8545-4a5e-97e5-49fd455b74f1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12345",
+        "storeCode": "12345",
+        "propertyDefines": null,
+        "propertyStatus": [
+          {
+            "isActive": true,
+            "effectiveDate": "2019-09-05T00:00:00+09:00",
+            "properties": [
+              {
+                "id": "c7f1cd78-e7d0-4c80-a0fb-fc5a3187c481",
+                "storeCode": "12345",
+                "propertyName": "営業時間",
+                "propertyValue": "11:00～25:00",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3c818f4f-325d-4fe6-beb7-15e024fc35db"
+              },
+              {
+                "id": "15c42bde-44bb-439b-ac86-fa6d038f933e",
+                "storeCode": "12345",
+                "propertyName": "DPII.No",
+                "propertyValue": "12345",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "29e98474-c304-453f-9619-8637dac21f64"
+              },
+              {
+                "id": "c609ee75-9824-4a6a-b8e3-c6f95216c7e4",
+                "storeCode": "12345",
+                "propertyName": "電話番号",
+                "propertyValue": "052-249-8484",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2e9afb2c-8545-4a5e-97e5-49fd455b74f1"
+              },
+              {
+                "id": "a38f1abb-472d-4466-a37c-c5aa46de687d",
+                "storeCode": "12345",
+                "propertyName": "包材・備品_初回納品日",
+                "propertyValue": "43629",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b9dad767-7097-44c5-ad02-ac7f6cc14a04"
+              },
+              {
+                "id": "a0607e09-f67a-4560-ad65-d04e36439d21",
+                "storeCode": "12345",
+                "propertyName": "クリーニング業者",
+                "propertyValue": "ダスキン上前津支店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2b8666ef-b78d-4e16-9ceb-69c9b7f008ca"
+              },
+              {
+                "id": "35e49349-7544-4afb-a4d2-b5e820e3e6fc",
+                "storeCode": "12345",
+                "propertyName": "車両(車種/台数)",
+                "propertyValue": "​自転車7台",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2659ea43-7334-4d16-bf02-24f31bc3d5ba"
+              },
+              {
+                "id": "55c2f103-32d9-46f5-8bf8-bd4e59e35ff9",
+                "storeCode": "12345",
+                "propertyName": "確定商圏",
+                "propertyValue": "確定商圏",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ea2230a1-d222-4165-9549-bac2a195171b"
+              },
+              {
+                "id": "4c58a749-a5e8-46ec-bf41-943de7d3aa67",
+                "storeCode": "12345",
+                "propertyName": "State",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "0da774e9-b57f-423e-9242-96bd832a0e1e"
+              },
+              {
+                "id": "f5394661-5e12-4c33-9099-92108daed719",
+                "storeCode": "12345",
+                "propertyName": "住所・〒",
+                "propertyValue": "〒460-0008愛知県名古屋市中区栄5‐7‐7",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "49b08819-5ab1-49e7-98bd-cdac5abb0782"
+              },
+              {
+                "id": "ed3d0c27-5ea1-4feb-9c05-83999abb805f",
+                "storeCode": "12345",
+                "propertyName": "最終営業日",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "da15c47c-6174-4cf8-9053-dc2d226d3941"
+              },
+              {
+                "id": "8acbdd81-2976-41d0-bcc3-74f0e1a690f6",
+                "storeCode": "12345",
+                "propertyName": "出店区分",
+                "propertyValue": "新店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b03712aa-6ad1-47ea-af0b-45f3c8fed67e"
+              },
+              {
+                "id": "379271fc-ac27-4e34-9f3b-69ce65da79a5",
+                "storeCode": "12345",
+                "propertyName": "TV Market",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "af40d01c-705f-4262-bb47-728f8a12787b"
+              },
+              {
+                "id": "04cb88c6-e9af-405b-8fc6-58784a3586f3",
+                "storeCode": "12345",
+                "propertyName": "オーブンタイプ",
+                "propertyValue": "&lt;選択してください&gt;",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "cea8a008-3878-4af9-9001-bbc045448a77"
+              },
+              {
+                "id": "13f46d01-a778-4e29-b51f-51d450567fea",
+                "storeCode": "12345",
+                "propertyName": "IPアドレス",
+                "propertyValue": "172.19.42.x",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "9c7eca50-6726-43d6-a85a-fba3c79ca9f3"
+              },
+              {
+                "id": "2d1bfea6-93c0-4136-8ffe-504725ff0526",
+                "storeCode": "12345",
+                "propertyName": "店舗名",
+                "propertyValue": "テスト店舗",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "d285e8a6-448d-47c3-9447-1362b284d025"
+              },
+              {
+                "id": "355fbfaf-d3c8-4ca1-85eb-3d860ca2fd93",
+                "storeCode": "12345",
+                "propertyName": "SVR名",
+                "propertyValue": "福原SVR",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7ac09949-0eb0-4c4b-a5c8-df9c4059f28a"
+              },
+              {
+                "id": "0f719f5e-91f0-4751-9ed1-404dcf5104a9",
+                "storeCode": "12345",
+                "propertyName": "店舗引渡し日",
+                "propertyValue": "2019/06/13 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61fa9dd6-2148-44f1-aac8-0e9c49cf068d"
+              },
+              {
+                "id": "b6fa1e71-c545-402e-b0de-004e98331b96",
+                "storeCode": "12345",
+                "propertyName": "工事費見積額",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7b07fed2-ddbc-410e-b540-9f2a988ab300"
+              },
+              {
+                "id": "adbe71cd-7927-4573-8ca9-0ac9f0aff704",
+                "storeCode": "12345",
+                "propertyName": "廃棄物収集業者",
+                "propertyValue": "大和エネルフ㈱",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ac4a9d64-9cb5-4d06-935f-26883d4cd93b"
+              },
+              {
+                "id": "d439eaff-0d8e-4c04-b0cf-1016562b2b31",
+                "storeCode": "12345",
+                "propertyName": "ユーザーまたはグループ",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3263a1f3-e296-4b9b-9873-e2b5401df99f"
+              },
+              {
+                "id": "fb91d1e2-9971-494b-94b2-1d6f0386271c",
+                "storeCode": "12345",
+                "propertyName": "包材・備品初回曜日",
+                "propertyValue": "木",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2cbc89a3-2a23-4113-8f32-a7e7fb6311b0"
+              },
+              {
+                "id": "5d484e2b-c858-401d-9ed6-1ddd02a5db91",
+                "storeCode": "12345",
+                "propertyName": "マッシュルーム初回発注日",
+                "propertyValue": "2019/06/10 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "6f7d89fd-f021-42ac-a9c6-e65a2e4ae312"
+              },
+              {
+                "id": "a23f8199-f23b-48e0-9b0e-215c72d95adf",
+                "storeCode": "12345",
+                "propertyName": "食材納品日",
+                "propertyValue": "43630",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "52c2a646-dd70-4543-81d2-e16b6d2367f6"
+              },
+              {
+                "id": "544ddbc7-f428-4d19-8995-27f5e4cb1f3c",
+                "storeCode": "12345",
+                "propertyName": "食材配送グループ",
+                "propertyValue": "D",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61a11c89-7030-46ac-8691-8ef66d4ee6cc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "20000",
+        "storeCode": "20000",
+        "propertyDefines": null,
+        "propertyStatus": [
+          {
+            "isActive": true,
+            "effectiveDate": "2019-09-05T00:00:00+09:00",
+            "properties": [
+              {
+                "id": "c70911e1-54db-45d4-b10f-0040b8a7c4c6",
+                "storeCode": "20000",
+                "propertyName": "SVR名",
+                "propertyValue": "福原SVR",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7ac09949-0eb0-4c4b-a5c8-df9c4059f28a"
+              },
+              {
+                "id": "36419f7f-0af9-4595-9c66-035569dbcea2",
+                "storeCode": "20000",
+                "propertyName": "車両(車種/台数)",
+                "propertyValue": "​自転車7台",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2659ea43-7334-4d16-bf02-24f31bc3d5ba"
+              },
+              {
+                "id": "a42ae9ca-0437-4fea-b74c-05798833cfca",
+                "storeCode": "20000",
+                "propertyName": "包材・備品初回曜日",
+                "propertyValue": "木",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2cbc89a3-2a23-4113-8f32-a7e7fb6311b0"
+              },
+              {
+                "id": "049aa3dd-4f3b-4f0f-abbd-0891ab1554f3",
+                "storeCode": "20000",
+                "propertyName": "クリーニング業者",
+                "propertyValue": "ダスキン上前津支店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2b8666ef-b78d-4e16-9ceb-69c9b7f008ca"
+              },
+              {
+                "id": "7784bb62-6901-4583-811e-47cd64d26bb8",
+                "storeCode": "20000",
+                "propertyName": "DPII.No",
+                "propertyValue": "20000",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "29e98474-c304-453f-9619-8637dac21f64"
+              },
+              {
+                "id": "395fb12b-6f8c-4808-94b4-3ef1a74e696a",
+                "storeCode": "20000",
+                "propertyName": "電話番号",
+                "propertyValue": "052-249-8484",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2e9afb2c-8545-4a5e-97e5-49fd455b74f1"
+              },
+              {
+                "id": "dc2c3469-c82f-408b-8ad8-2b4f3095eb4d",
+                "storeCode": "20000",
+                "propertyName": "オーブンタイプ",
+                "propertyValue": "&lt;選択してください&gt;",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "cea8a008-3878-4af9-9001-bbc045448a77"
+              },
+              {
+                "id": "a921bc98-7aff-423a-b779-2df55dd5345d",
+                "storeCode": "20000",
+                "propertyName": "住所・〒",
+                "propertyValue": "〒460-0008愛知県名古屋市中区栄5‐7‐7",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "49b08819-5ab1-49e7-98bd-cdac5abb0782"
+              },
+              {
+                "id": "416dc17c-391c-4265-9d45-4c4b06dd886d",
+                "storeCode": "20000",
+                "propertyName": "食材配送グループ",
+                "propertyValue": "D",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61a11c89-7030-46ac-8691-8ef66d4ee6cc"
+              },
+              {
+                "id": "6f464f86-bb6f-4643-859a-521a819f6992",
+                "storeCode": "20000",
+                "propertyName": "工事費見積額",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7b07fed2-ddbc-410e-b540-9f2a988ab300"
+              },
+              {
+                "id": "5d8fe2af-6c48-4654-822c-6065f8b08c64",
+                "storeCode": "20000",
+                "propertyName": "確定商圏",
+                "propertyValue": "確定商圏",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ea2230a1-d222-4165-9549-bac2a195171b"
+              },
+              {
+                "id": "e821ae21-4430-409e-bd94-6d3f2aa0c031",
+                "storeCode": "20000",
+                "propertyName": "包材・備品_初回納品日",
+                "propertyValue": "43629",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b9dad767-7097-44c5-ad02-ac7f6cc14a04"
+              },
+              {
+                "id": "acdbfcab-84e4-4267-92ef-9a480028422a",
+                "storeCode": "20000",
+                "propertyName": "TV Market",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "af40d01c-705f-4262-bb47-728f8a12787b"
+              },
+              {
+                "id": "004f7d07-f634-4401-b907-95c9326cf8b0",
+                "storeCode": "20000",
+                "propertyName": "State",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "0da774e9-b57f-423e-9242-96bd832a0e1e"
+              },
+              {
+                "id": "8b06e496-2c9c-48cc-ab2c-bc7db8f4c85b",
+                "storeCode": "20000",
+                "propertyName": "営業時間",
+                "propertyValue": "11:00～25:00",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3c818f4f-325d-4fe6-beb7-15e024fc35db"
+              },
+              {
+                "id": "b772c180-c302-49ab-be5f-b59261033c4e",
+                "storeCode": "20000",
+                "propertyName": "店舗引渡し日",
+                "propertyValue": "2019/06/13 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61fa9dd6-2148-44f1-aac8-0e9c49cf068d"
+              },
+              {
+                "id": "e1537395-21b6-4df6-859c-c0ad25f80a7a",
+                "storeCode": "20000",
+                "propertyName": "IPアドレス",
+                "propertyValue": "172.19.42.x",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "9c7eca50-6726-43d6-a85a-fba3c79ca9f3"
+              },
+              {
+                "id": "bb0cddee-aa4e-493a-945a-a87d1db1a967",
+                "storeCode": "20000",
+                "propertyName": "最終営業日",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "da15c47c-6174-4cf8-9053-dc2d226d3941"
+              },
+              {
+                "id": "1d5190d2-6b5e-437c-be5b-ae411206bafb",
+                "storeCode": "20000",
+                "propertyName": "ユーザーまたはグループ",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3263a1f3-e296-4b9b-9873-e2b5401df99f"
+              },
+              {
+                "id": "49c28cd7-d644-4532-9d5b-e34881e97eb3",
+                "storeCode": "20000",
+                "propertyName": "マッシュルーム初回発注日",
+                "propertyValue": "2019/06/10 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "6f7d89fd-f021-42ac-a9c6-e65a2e4ae312"
+              },
+              {
+                "id": "94d643fb-99bf-4c40-bfae-e7d5e0d0ca96",
+                "storeCode": "20000",
+                "propertyName": "廃棄物収集業者",
+                "propertyValue": "大和エネルフ㈱",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ac4a9d64-9cb5-4d06-935f-26883d4cd93b"
+              },
+              {
+                "id": "061e8c15-f493-4f18-acfe-ebfbcc91a67f",
+                "storeCode": "20000",
+                "propertyName": "店舗名",
+                "propertyValue": "LSM廃棄",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "d285e8a6-448d-47c3-9447-1362b284d025"
+              },
+              {
+                "id": "57c9dbbe-c554-4df9-b178-ef1c20dbd68b",
+                "storeCode": "20000",
+                "propertyName": "食材納品日",
+                "propertyValue": "43630",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "52c2a646-dd70-4543-81d2-e16b6d2367f6"
+              },
+              {
+                "id": "5f8538a2-f2f3-482a-8979-f6923cb93176",
+                "storeCode": "20000",
+                "propertyName": "出店区分",
+                "propertyValue": "新店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b03712aa-6ad1-47ea-af0b-45f3c8fed67e"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "86780",
+        "storeCode": "86780",
+        "propertyDefines": null,
+        "propertyStatus": [
+          {
+            "isActive": true,
+            "effectiveDate": "2019-09-05T00:00:00+09:00",
+            "properties": [
+              {
+                "id": "b07a0008-d478-4ce9-aa90-ee1a2a0a6d08",
+                "storeCode": "86780",
+                "propertyName": "IPアドレス",
+                "propertyValue": "172.19.42.x",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "9c7eca50-6726-43d6-a85a-fba3c79ca9f3"
+              },
+              {
+                "id": "e6e71f92-dd0d-44bd-af97-fdf63c6343ff",
+                "storeCode": "86780",
+                "propertyName": "マッシュルーム初回発注日",
+                "propertyValue": "2019/06/10 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "6f7d89fd-f021-42ac-a9c6-e65a2e4ae312"
+              },
+              {
+                "id": "420431eb-3658-4866-bb6e-dfd8fd899f52",
+                "storeCode": "86780",
+                "propertyName": "ユーザーまたはグループ",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3263a1f3-e296-4b9b-9873-e2b5401df99f"
+              },
+              {
+                "id": "17412505-6b7e-40a2-acf8-d76bceb5b062",
+                "storeCode": "86780",
+                "propertyName": "店舗名",
+                "propertyValue": "恵比寿",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "d285e8a6-448d-47c3-9447-1362b284d025"
+              },
+              {
+                "id": "545074f5-37eb-49ec-a3e4-d78181e05220",
+                "storeCode": "86780",
+                "propertyName": "店舗引渡し日",
+                "propertyValue": "2019/06/13 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61fa9dd6-2148-44f1-aac8-0e9c49cf068d"
+              },
+              {
+                "id": "37db274f-ed50-487a-a1a2-d8c1561beda9",
+                "storeCode": "86780",
+                "propertyName": "クリーニング業者",
+                "propertyValue": "ダスキン上前津支店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2b8666ef-b78d-4e16-9ceb-69c9b7f008ca"
+              },
+              {
+                "id": "caa5d50b-49f4-4725-9178-cbef6310d4ae",
+                "storeCode": "86780",
+                "propertyName": "電話番号",
+                "propertyValue": "052-249-8484",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2e9afb2c-8545-4a5e-97e5-49fd455b74f1"
+              },
+              {
+                "id": "258a14af-74a8-4630-b81a-ce735c3a89a7",
+                "storeCode": "86780",
+                "propertyName": "最終営業日",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "da15c47c-6174-4cf8-9053-dc2d226d3941"
+              },
+              {
+                "id": "00e6ba63-5529-45d0-a35f-c5bbc8bce37d",
+                "storeCode": "86780",
+                "propertyName": "工事費見積額",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7b07fed2-ddbc-410e-b540-9f2a988ab300"
+              },
+              {
+                "id": "26d74a0f-97bc-4769-990b-b787c077fcbe",
+                "storeCode": "86780",
+                "propertyName": "DPII.No",
+                "propertyValue": "86780",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "29e98474-c304-453f-9619-8637dac21f64"
+              },
+              {
+                "id": "71c66479-ad2a-4ed2-9bbc-bda9c60cf013",
+                "storeCode": "86780",
+                "propertyName": "車両(車種/台数)",
+                "propertyValue": "​自転車7台",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2659ea43-7334-4d16-bf02-24f31bc3d5ba"
+              },
+              {
+                "id": "c455485a-3295-49ff-bdac-93ca95a38829",
+                "storeCode": "86780",
+                "propertyName": "オーブンタイプ",
+                "propertyValue": "&lt;選択してください&gt;",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "cea8a008-3878-4af9-9001-bbc045448a77"
+              },
+              {
+                "id": "933bdf73-e121-4ddb-ac1c-83a3a29f5bcb",
+                "storeCode": "86780",
+                "propertyName": "廃棄物収集業者",
+                "propertyValue": "大和エネルフ㈱",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ac4a9d64-9cb5-4d06-935f-26883d4cd93b"
+              },
+              {
+                "id": "782b2dcb-1c4c-4437-a0d7-7bb36500d3b5",
+                "storeCode": "86780",
+                "propertyName": "TV Market",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "af40d01c-705f-4262-bb47-728f8a12787b"
+              },
+              {
+                "id": "c037ea07-c10c-4512-a037-6f71ac5f4bbf",
+                "storeCode": "86780",
+                "propertyName": "State",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "0da774e9-b57f-423e-9242-96bd832a0e1e"
+              },
+              {
+                "id": "a2404954-4b72-4678-9ef9-6ac8dc22f52d",
+                "storeCode": "86780",
+                "propertyName": "営業時間",
+                "propertyValue": "11:00～25:00",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3c818f4f-325d-4fe6-beb7-15e024fc35db"
+              },
+              {
+                "id": "a1a5b9bd-9295-44f3-9817-520078d74505",
+                "storeCode": "86780",
+                "propertyName": "出店区分",
+                "propertyValue": "新店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b03712aa-6ad1-47ea-af0b-45f3c8fed67e"
+              },
+              {
+                "id": "3e8794c3-0310-460d-a659-3bfce0ae8f5d",
+                "storeCode": "86780",
+                "propertyName": "住所・〒",
+                "propertyValue": "〒460-0008愛知県名古屋市中区栄5‐7‐7",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "49b08819-5ab1-49e7-98bd-cdac5abb0782"
+              },
+              {
+                "id": "4cc55f34-5f9b-411a-9d77-37cb2f7675de",
+                "storeCode": "86780",
+                "propertyName": "確定商圏",
+                "propertyValue": "確定商圏",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ea2230a1-d222-4165-9549-bac2a195171b"
+              },
+              {
+                "id": "403baeeb-30bf-4810-80ea-2d007a3181b9",
+                "storeCode": "86780",
+                "propertyName": "食材納品日",
+                "propertyValue": "43630",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "52c2a646-dd70-4543-81d2-e16b6d2367f6"
+              },
+              {
+                "id": "40d4acba-979b-431d-b887-02b0247906cb",
+                "storeCode": "86780",
+                "propertyName": "食材配送グループ",
+                "propertyValue": "D",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61a11c89-7030-46ac-8691-8ef66d4ee6cc"
+              },
+              {
+                "id": "ece5ee13-28f5-4638-bf26-1c9091de285c",
+                "storeCode": "86780",
+                "propertyName": "包材・備品_初回納品日",
+                "propertyValue": "43629",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b9dad767-7097-44c5-ad02-ac7f6cc14a04"
+              },
+              {
+                "id": "4ebd9b4b-4b43-494c-b20c-26f52657e31f",
+                "storeCode": "86780",
+                "propertyName": "SVR名",
+                "propertyValue": "福原SVR",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7ac09949-0eb0-4c4b-a5c8-df9c4059f28a"
+              },
+              {
+                "id": "348a7465-8adc-4184-bcab-0ca1f78ed989",
+                "storeCode": "86780",
+                "propertyName": "包材・備品初回曜日",
+                "propertyValue": "木",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2cbc89a3-2a23-4113-8f32-a7e7fb6311b0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "86781",
+        "storeCode": "86781",
+        "propertyDefines": null,
+        "propertyStatus": [
+          {
+            "isActive": true,
+            "effectiveDate": "2019-09-05T00:00:00+09:00",
+            "properties": [
+              {
+                "id": "e2a9c0bc-f547-4876-b79b-24cf86c8bb92",
+                "storeCode": "86781",
+                "propertyName": "工事費見積額",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7b07fed2-ddbc-410e-b540-9f2a988ab300"
+              },
+              {
+                "id": "0c7d2c21-3338-47b2-b128-042042f01809",
+                "storeCode": "86781",
+                "propertyName": "住所・〒",
+                "propertyValue": "〒460-0008愛知県名古屋市中区栄5‐7‐7",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "49b08819-5ab1-49e7-98bd-cdac5abb0782"
+              },
+              {
+                "id": "f8a21229-55c5-4e0f-ac35-2d32ef3dcfba",
+                "storeCode": "86781",
+                "propertyName": "食材配送グループ",
+                "propertyValue": "D",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61a11c89-7030-46ac-8691-8ef66d4ee6cc"
+              },
+              {
+                "id": "bafa9f6a-b07b-43cd-a046-33079cba2ad0",
+                "storeCode": "86781",
+                "propertyName": "オーブンタイプ",
+                "propertyValue": "&lt;選択してください&gt;",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "cea8a008-3878-4af9-9001-bbc045448a77"
+              },
+              {
+                "id": "1e7a71dc-b73f-48f2-be78-3fb93e943646",
+                "storeCode": "86781",
+                "propertyName": "営業時間",
+                "propertyValue": "11:00～25:00",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3c818f4f-325d-4fe6-beb7-15e024fc35db"
+              },
+              {
+                "id": "6b1475ca-d093-46ef-8bf6-3d84212c05a1",
+                "storeCode": "86781",
+                "propertyName": "最終営業日",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "da15c47c-6174-4cf8-9053-dc2d226d3941"
+              },
+              {
+                "id": "ce642d86-6edd-4ccf-8d7e-4191ce4e34a2",
+                "storeCode": "86781",
+                "propertyName": "TV Market",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "af40d01c-705f-4262-bb47-728f8a12787b"
+              },
+              {
+                "id": "533c5b31-698f-494d-b14c-4ec8a3ac1807",
+                "storeCode": "86781",
+                "propertyName": "確定商圏",
+                "propertyValue": "確定商圏",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ea2230a1-d222-4165-9549-bac2a195171b"
+              },
+              {
+                "id": "9989b7c6-a227-47bb-9843-4b619a7fc03d",
+                "storeCode": "86781",
+                "propertyName": "電話番号",
+                "propertyValue": "052-249-8484",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2e9afb2c-8545-4a5e-97e5-49fd455b74f1"
+              },
+              {
+                "id": "f54288f4-b777-4819-8745-51b39d9b3202",
+                "storeCode": "86781",
+                "propertyName": "マッシュルーム初回発注日",
+                "propertyValue": "2019/06/10 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "6f7d89fd-f021-42ac-a9c6-e65a2e4ae312"
+              },
+              {
+                "id": "905afe32-b4d4-4644-9ba0-5b066f32e149",
+                "storeCode": "86781",
+                "propertyName": "包材・備品初回曜日",
+                "propertyValue": "木",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2cbc89a3-2a23-4113-8f32-a7e7fb6311b0"
+              },
+              {
+                "id": "8819addc-2567-4513-89b6-74328997206c",
+                "storeCode": "86781",
+                "propertyName": "State",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "0da774e9-b57f-423e-9242-96bd832a0e1e"
+              },
+              {
+                "id": "98a98891-4325-47fe-9802-61c0ccbb3b16",
+                "storeCode": "86781",
+                "propertyName": "店舗名",
+                "propertyValue": "代々木上原",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "d285e8a6-448d-47c3-9447-1362b284d025"
+              },
+              {
+                "id": "0f49b5ad-9167-44b0-92e4-7f3065b3155c",
+                "storeCode": "86781",
+                "propertyName": "クリーニング業者",
+                "propertyValue": "ダスキン上前津支店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2b8666ef-b78d-4e16-9ceb-69c9b7f008ca"
+              },
+              {
+                "id": "817fceaa-f9a7-4e47-a8e5-98d05458e415",
+                "storeCode": "86781",
+                "propertyName": "廃棄物収集業者",
+                "propertyValue": "大和エネルフ㈱",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ac4a9d64-9cb5-4d06-935f-26883d4cd93b"
+              },
+              {
+                "id": "e1abf8ba-f917-422c-b2de-bc66025d1572",
+                "storeCode": "86781",
+                "propertyName": "DPII.No",
+                "propertyValue": "86781",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "29e98474-c304-453f-9619-8637dac21f64"
+              },
+              {
+                "id": "49b0eaa2-9bc0-42b3-9df8-b18ea369a1d9",
+                "storeCode": "86781",
+                "propertyName": "出店区分",
+                "propertyValue": "新店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b03712aa-6ad1-47ea-af0b-45f3c8fed67e"
+              },
+              {
+                "id": "f7fb44e2-ad5e-4c58-ae50-ab9a72b84fe5",
+                "storeCode": "86781",
+                "propertyName": "店舗引渡し日",
+                "propertyValue": "2019/06/13 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61fa9dd6-2148-44f1-aac8-0e9c49cf068d"
+              },
+              {
+                "id": "fce85fdb-cb0b-4a8b-bfd7-d5b48452dd69",
+                "storeCode": "86781",
+                "propertyName": "ユーザーまたはグループ",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3263a1f3-e296-4b9b-9873-e2b5401df99f"
+              },
+              {
+                "id": "fede8c88-8dee-4f8f-ba2c-e00c8acfcfae",
+                "storeCode": "86781",
+                "propertyName": "IPアドレス",
+                "propertyValue": "172.19.42.x",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "9c7eca50-6726-43d6-a85a-fba3c79ca9f3"
+              },
+              {
+                "id": "2741f8fc-37a7-461f-ba62-e1c548d233e7",
+                "storeCode": "86781",
+                "propertyName": "SVR名",
+                "propertyValue": "福原SVR",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7ac09949-0eb0-4c4b-a5c8-df9c4059f28a"
+              },
+              {
+                "id": "aa7e509a-e585-45dd-a0a1-ed1b35cceeb4",
+                "storeCode": "86781",
+                "propertyName": "車両(車種/台数)",
+                "propertyValue": "​自転車7台",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2659ea43-7334-4d16-bf02-24f31bc3d5ba"
+              },
+              {
+                "id": "35559684-6d9a-48c5-9bf2-f2f9296d4582",
+                "storeCode": "86781",
+                "propertyName": "食材納品日",
+                "propertyValue": "43630",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "52c2a646-dd70-4543-81d2-e16b6d2367f6"
+              },
+              {
+                "id": "a1c87451-790b-4fbc-9bb5-f1472e403e59",
+                "storeCode": "86781",
+                "propertyName": "包材・備品_初回納品日",
+                "propertyValue": "43629",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b9dad767-7097-44c5-ad02-ac7f6cc14a04"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "86782",
+        "storeCode": "86782",
+        "propertyDefines": null,
+        "propertyStatus": [
+          {
+            "isActive": true,
+            "effectiveDate": "2019-09-05T00:00:00+09:00",
+            "properties": [
+              {
+                "id": "b7c4d6f4-dce3-4608-aa2b-f22bda7371fc",
+                "storeCode": "86782",
+                "propertyName": "食材納品日",
+                "propertyValue": "43630",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "52c2a646-dd70-4543-81d2-e16b6d2367f6"
+              },
+              {
+                "id": "0a53bde2-7f05-42a1-a1a1-f593ec12dab3",
+                "storeCode": "86782",
+                "propertyName": "営業時間",
+                "propertyValue": "11:00～25:00",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3c818f4f-325d-4fe6-beb7-15e024fc35db"
+              },
+              {
+                "id": "23ad0fbf-9624-4b0b-a9e5-fd6e1ba25d2f",
+                "storeCode": "86782",
+                "propertyName": "DPII.No",
+                "propertyValue": "86782",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "29e98474-c304-453f-9619-8637dac21f64"
+              },
+              {
+                "id": "5c86fbec-20b2-41cd-bccb-fafa958b778f",
+                "storeCode": "86782",
+                "propertyName": "State",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "0da774e9-b57f-423e-9242-96bd832a0e1e"
+              },
+              {
+                "id": "142c7b4d-fd48-438e-af5b-e1665b0d5887",
+                "storeCode": "86782",
+                "propertyName": "オーブンタイプ",
+                "propertyValue": "&lt;選択してください&gt;",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "cea8a008-3878-4af9-9001-bbc045448a77"
+              },
+              {
+                "id": "807774d6-94ac-4678-aa22-e5e16c756bdb",
+                "storeCode": "86782",
+                "propertyName": "廃棄物収集業者",
+                "propertyValue": "大和エネルフ㈱",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ac4a9d64-9cb5-4d06-935f-26883d4cd93b"
+              },
+              {
+                "id": "7390aa2a-82c8-42c3-9713-c81fd15e6bee",
+                "storeCode": "86782",
+                "propertyName": "最終営業日",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "da15c47c-6174-4cf8-9053-dc2d226d3941"
+              },
+              {
+                "id": "927e9f28-43d3-4c57-a5cb-cd99cc4dadc3",
+                "storeCode": "86782",
+                "propertyName": "TV Market",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "af40d01c-705f-4262-bb47-728f8a12787b"
+              },
+              {
+                "id": "5b90b4a8-238f-4d81-b996-abd43eacd9c8",
+                "storeCode": "86782",
+                "propertyName": "確定商圏",
+                "propertyValue": "確定商圏",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ea2230a1-d222-4165-9549-bac2a195171b"
+              },
+              {
+                "id": "b22abd8e-d0d6-4311-9fdc-b27649bb1641",
+                "storeCode": "86782",
+                "propertyName": "マッシュルーム初回発注日",
+                "propertyValue": "2019/06/10 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "6f7d89fd-f021-42ac-a9c6-e65a2e4ae312"
+              },
+              {
+                "id": "54ff18a4-919b-4e52-83e6-b8c9bf09a5f8",
+                "storeCode": "86782",
+                "propertyName": "店舗引渡し日",
+                "propertyValue": "2019/06/13 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61fa9dd6-2148-44f1-aac8-0e9c49cf068d"
+              },
+              {
+                "id": "732b3ae9-164c-4071-bd03-bc92b4da5307",
+                "storeCode": "86782",
+                "propertyName": "車両(車種/台数)",
+                "propertyValue": "​自転車7台",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2659ea43-7334-4d16-bf02-24f31bc3d5ba"
+              },
+              {
+                "id": "e43e35d2-dddb-48dd-ba7e-be901b41a923",
+                "storeCode": "86782",
+                "propertyName": "食材配送グループ",
+                "propertyValue": "D",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61a11c89-7030-46ac-8691-8ef66d4ee6cc"
+              },
+              {
+                "id": "c7aed76d-b17e-42da-9d2c-9a82cde2334b",
+                "storeCode": "86782",
+                "propertyName": "出店区分",
+                "propertyValue": "新店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b03712aa-6ad1-47ea-af0b-45f3c8fed67e"
+              },
+              {
+                "id": "7b27505a-ebb5-4d98-8a03-958616e7ddcc",
+                "storeCode": "86782",
+                "propertyName": "電話番号",
+                "propertyValue": "052-249-8484",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2e9afb2c-8545-4a5e-97e5-49fd455b74f1"
+              },
+              {
+                "id": "62525b0a-7ed4-4f36-ab76-82e4b18c8824",
+                "storeCode": "86782",
+                "propertyName": "包材・備品_初回納品日",
+                "propertyValue": "43629",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b9dad767-7097-44c5-ad02-ac7f6cc14a04"
+              },
+              {
+                "id": "24c0b085-ac10-49aa-b668-6fdf5a0d05fb",
+                "storeCode": "86782",
+                "propertyName": "クリーニング業者",
+                "propertyValue": "ダスキン上前津支店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2b8666ef-b78d-4e16-9ceb-69c9b7f008ca"
+              },
+              {
+                "id": "256cfd91-ce8b-446d-af93-52f635e4a3b4",
+                "storeCode": "86782",
+                "propertyName": "店舗名",
+                "propertyValue": "乃木坂（閉店）",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "d285e8a6-448d-47c3-9447-1362b284d025"
+              },
+              {
+                "id": "cec2d082-f220-4eda-981a-41a6d45b7933",
+                "storeCode": "86782",
+                "propertyName": "工事費見積額",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7b07fed2-ddbc-410e-b540-9f2a988ab300"
+              },
+              {
+                "id": "150841ac-c03e-43cb-bfbc-45b7b8c85630",
+                "storeCode": "86782",
+                "propertyName": "SVR名",
+                "propertyValue": "福原SVR",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7ac09949-0eb0-4c4b-a5c8-df9c4059f28a"
+              },
+              {
+                "id": "e2f215c2-a773-4dd4-984d-394a10a82c63",
+                "storeCode": "86782",
+                "propertyName": "包材・備品初回曜日",
+                "propertyValue": "木",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2cbc89a3-2a23-4113-8f32-a7e7fb6311b0"
+              },
+              {
+                "id": "3faf572e-fe58-44ac-82b8-321f8f1e0c32",
+                "storeCode": "86782",
+                "propertyName": "IPアドレス",
+                "propertyValue": "172.19.42.x",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "9c7eca50-6726-43d6-a85a-fba3c79ca9f3"
+              },
+              {
+                "id": "2ea3f6fe-4765-468d-a326-2cb64ea8d600",
+                "storeCode": "86782",
+                "propertyName": "ユーザーまたはグループ",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3263a1f3-e296-4b9b-9873-e2b5401df99f"
+              },
+              {
+                "id": "1b9055df-0336-453a-bb6c-09aef4465612",
+                "storeCode": "86782",
+                "propertyName": "住所・〒",
+                "propertyValue": "〒460-0008愛知県名古屋市中区栄5‐7‐7",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "49b08819-5ab1-49e7-98bd-cdac5abb0782"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "86783",
+        "storeCode": "86783",
+        "propertyDefines": null,
+        "propertyStatus": [
+          {
+            "isActive": true,
+            "effectiveDate": "2019-09-05T00:00:00+09:00",
+            "properties": [
+              {
+                "id": "484fa900-e81a-47ba-b423-0584fcf129eb",
+                "storeCode": "86783",
+                "propertyName": "出店区分",
+                "propertyValue": "新店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b03712aa-6ad1-47ea-af0b-45f3c8fed67e"
+              },
+              {
+                "id": "17f25139-f083-4f57-bfba-271a99c23d1b",
+                "storeCode": "86783",
+                "propertyName": "工事費見積額",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7b07fed2-ddbc-410e-b540-9f2a988ab300"
+              },
+              {
+                "id": "942a1b01-664e-44ea-9432-33b33f0e39e6",
+                "storeCode": "86783",
+                "propertyName": "State",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "0da774e9-b57f-423e-9242-96bd832a0e1e"
+              },
+              {
+                "id": "40140d14-52fb-4264-bb3c-3470bfd8d9e9",
+                "storeCode": "86783",
+                "propertyName": "車両(車種/台数)",
+                "propertyValue": "​自転車7台",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2659ea43-7334-4d16-bf02-24f31bc3d5ba"
+              },
+              {
+                "id": "d38a764c-d530-4aea-845d-3ee9578a50aa",
+                "storeCode": "86783",
+                "propertyName": "SVR名",
+                "propertyValue": "福原SVR",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7ac09949-0eb0-4c4b-a5c8-df9c4059f28a"
+              },
+              {
+                "id": "28d6af4d-03cb-40f6-bc94-3f3b96921c19",
+                "storeCode": "86783",
+                "propertyName": "ユーザーまたはグループ",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3263a1f3-e296-4b9b-9873-e2b5401df99f"
+              },
+              {
+                "id": "0905e9b3-629a-4d5b-a291-5a29aba6ec03",
+                "storeCode": "86783",
+                "propertyName": "最終営業日",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "da15c47c-6174-4cf8-9053-dc2d226d3941"
+              },
+              {
+                "id": "8c7d8ff7-3b25-4be0-a840-7656c04a614f",
+                "storeCode": "86783",
+                "propertyName": "IPアドレス",
+                "propertyValue": "172.19.42.x",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "9c7eca50-6726-43d6-a85a-fba3c79ca9f3"
+              },
+              {
+                "id": "1801ebfc-d3ac-47b5-9d7e-7ca57dcd8ef1",
+                "storeCode": "86783",
+                "propertyName": "クリーニング業者",
+                "propertyValue": "ダスキン上前津支店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2b8666ef-b78d-4e16-9ceb-69c9b7f008ca"
+              },
+              {
+                "id": "b91c6dc1-711c-4f58-8dd7-89736648e781",
+                "storeCode": "86783",
+                "propertyName": "営業時間",
+                "propertyValue": "11:00～25:00",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3c818f4f-325d-4fe6-beb7-15e024fc35db"
+              },
+              {
+                "id": "fa241124-dcd1-439e-b930-8c9be012c767",
+                "storeCode": "86783",
+                "propertyName": "廃棄物収集業者",
+                "propertyValue": "大和エネルフ㈱",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ac4a9d64-9cb5-4d06-935f-26883d4cd93b"
+              },
+              {
+                "id": "5b41b212-04b5-417c-b65a-90243ceeb1ed",
+                "storeCode": "86783",
+                "propertyName": "食材納品日",
+                "propertyValue": "43630",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "52c2a646-dd70-4543-81d2-e16b6d2367f6"
+              },
+              {
+                "id": "d8974b44-b119-4332-9812-a00ec183abc0",
+                "storeCode": "86783",
+                "propertyName": "マッシュルーム初回発注日",
+                "propertyValue": "2019/06/10 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "6f7d89fd-f021-42ac-a9c6-e65a2e4ae312"
+              },
+              {
+                "id": "4c75b807-26e0-4ea7-b330-beac2fbd7afd",
+                "storeCode": "86783",
+                "propertyName": "確定商圏",
+                "propertyValue": "確定商圏",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ea2230a1-d222-4165-9549-bac2a195171b"
+              },
+              {
+                "id": "2d8796ff-6480-4cf9-901e-c0cb2768d66d",
+                "storeCode": "86783",
+                "propertyName": "電話番号",
+                "propertyValue": "052-249-8484",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2e9afb2c-8545-4a5e-97e5-49fd455b74f1"
+              },
+              {
+                "id": "817a6d47-a181-4391-9fc9-bbfa58ee3d54",
+                "storeCode": "86783",
+                "propertyName": "食材配送グループ",
+                "propertyValue": "D",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61a11c89-7030-46ac-8691-8ef66d4ee6cc"
+              },
+              {
+                "id": "4a422d05-c49b-4fc4-8b7d-b9b81aff795c",
+                "storeCode": "86783",
+                "propertyName": "オーブンタイプ",
+                "propertyValue": "&lt;選択してください&gt;",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "cea8a008-3878-4af9-9001-bbc045448a77"
+              },
+              {
+                "id": "0254e3a8-de8d-45dd-a020-b754d8a26e52",
+                "storeCode": "86783",
+                "propertyName": "店舗名",
+                "propertyValue": "高輪（閉店）",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "d285e8a6-448d-47c3-9447-1362b284d025"
+              },
+              {
+                "id": "81bd509f-a9f9-4b3b-96bd-b4e396a41b7e",
+                "storeCode": "86783",
+                "propertyName": "店舗引渡し日",
+                "propertyValue": "2019/06/13 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61fa9dd6-2148-44f1-aac8-0e9c49cf068d"
+              },
+              {
+                "id": "841d00fc-1af7-437c-a016-af16cc9dd026",
+                "storeCode": "86783",
+                "propertyName": "TV Market",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "af40d01c-705f-4262-bb47-728f8a12787b"
+              },
+              {
+                "id": "a327d154-d358-4a96-90b7-b0ffea813a32",
+                "storeCode": "86783",
+                "propertyName": "DPII.No",
+                "propertyValue": "86783",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "29e98474-c304-453f-9619-8637dac21f64"
+              },
+              {
+                "id": "28c94b20-f4d8-4421-bfd1-cef1029cd0d4",
+                "storeCode": "86783",
+                "propertyName": "包材・備品初回曜日",
+                "propertyValue": "木",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2cbc89a3-2a23-4113-8f32-a7e7fb6311b0"
+              },
+              {
+                "id": "d832fc23-6540-4c99-9825-c6418f395303",
+                "storeCode": "86783",
+                "propertyName": "包材・備品_初回納品日",
+                "propertyValue": "43629",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b9dad767-7097-44c5-ad02-ac7f6cc14a04"
+              },
+              {
+                "id": "06483bc1-35d0-47fd-81d9-e6ee954092c7",
+                "storeCode": "86783",
+                "propertyName": "住所・〒",
+                "propertyValue": "〒460-0008愛知県名古屋市中区栄5‐7‐7",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "49b08819-5ab1-49e7-98bd-cdac5abb0782"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "86784",
+        "storeCode": "86784",
+        "propertyDefines": null,
+        "propertyStatus": [
+          {
+            "isActive": true,
+            "effectiveDate": "2019-09-05T00:00:00+09:00",
+            "properties": [
+              {
+                "id": "0b88c9ed-fe61-4c4e-8cde-e751c0aff1b1",
+                "storeCode": "86784",
+                "propertyName": "マッシュルーム初回発注日",
+                "propertyValue": "2019/06/10 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "6f7d89fd-f021-42ac-a9c6-e65a2e4ae312"
+              },
+              {
+                "id": "d8078248-7fb4-4035-b97e-e7f10e838d4f",
+                "storeCode": "86784",
+                "propertyName": "包材・備品_初回納品日",
+                "propertyValue": "43629",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b9dad767-7097-44c5-ad02-ac7f6cc14a04"
+              },
+              {
+                "id": "7f009dee-5d63-4f62-8500-e1b0a7f9ef1c",
+                "storeCode": "86784",
+                "propertyName": "店舗引渡し日",
+                "propertyValue": "2019/06/13 ",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61fa9dd6-2148-44f1-aac8-0e9c49cf068d"
+              },
+              {
+                "id": "ec1c779d-42cb-49d6-b078-d6cb0c46e6a2",
+                "storeCode": "86784",
+                "propertyName": "店舗名",
+                "propertyValue": "関口目白通り",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "d285e8a6-448d-47c3-9447-1362b284d025"
+              },
+              {
+                "id": "593e9520-9e56-4249-afcc-c8fa6385abbc",
+                "storeCode": "86784",
+                "propertyName": "DPII.No",
+                "propertyValue": "86784",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "29e98474-c304-453f-9619-8637dac21f64"
+              },
+              {
+                "id": "437f335f-866c-4945-96fa-d3c17f42a816",
+                "storeCode": "86784",
+                "propertyName": "クリーニング業者",
+                "propertyValue": "ダスキン上前津支店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2b8666ef-b78d-4e16-9ceb-69c9b7f008ca"
+              },
+              {
+                "id": "3adafdb2-8de0-4e78-8613-ad07b3f7150e",
+                "storeCode": "86784",
+                "propertyName": "IPアドレス",
+                "propertyValue": "172.19.42.x",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "9c7eca50-6726-43d6-a85a-fba3c79ca9f3"
+              },
+              {
+                "id": "1b47503c-0b63-4a00-acb0-be21489aace2",
+                "storeCode": "86784",
+                "propertyName": "包材・備品初回曜日",
+                "propertyValue": "木",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2cbc89a3-2a23-4113-8f32-a7e7fb6311b0"
+              },
+              {
+                "id": "c45654cc-306e-41a7-ac74-fb3f90c0a5c5",
+                "storeCode": "86784",
+                "propertyName": "廃棄物収集業者",
+                "propertyValue": "大和エネルフ㈱",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ac4a9d64-9cb5-4d06-935f-26883d4cd93b"
+              },
+              {
+                "id": "cb995468-a771-4adf-880f-eefecb08bfde",
+                "storeCode": "86784",
+                "propertyName": "TV Market",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "af40d01c-705f-4262-bb47-728f8a12787b"
+              },
+              {
+                "id": "2e8e8f61-e9cc-497a-ae41-f0516efcf452",
+                "storeCode": "86784",
+                "propertyName": "出店区分",
+                "propertyValue": "新店",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "b03712aa-6ad1-47ea-af0b-45f3c8fed67e"
+              },
+              {
+                "id": "5112dc62-b535-438a-b7c8-a7ef1fda7446",
+                "storeCode": "86784",
+                "propertyName": "住所・〒",
+                "propertyValue": "〒460-0008愛知県名古屋市中区栄5‐7‐7",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "49b08819-5ab1-49e7-98bd-cdac5abb0782"
+              },
+              {
+                "id": "26bd7a5e-242f-4287-9ffa-7b5b8be1a20d",
+                "storeCode": "86784",
+                "propertyName": "営業時間",
+                "propertyValue": "11:00～25:00",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3c818f4f-325d-4fe6-beb7-15e024fc35db"
+              },
+              {
+                "id": "245c592b-b9ff-4db3-9b81-785321769823",
+                "storeCode": "86784",
+                "propertyName": "ユーザーまたはグループ",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "3263a1f3-e296-4b9b-9873-e2b5401df99f"
+              },
+              {
+                "id": "45e422c0-e050-434f-8d9a-69d1c97dda9d",
+                "storeCode": "86784",
+                "propertyName": "工事費見積額",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7b07fed2-ddbc-410e-b540-9f2a988ab300"
+              },
+              {
+                "id": "cff6c0d5-3eb5-4594-8acd-3fc2678ba6e8",
+                "storeCode": "86784",
+                "propertyName": "食材配送グループ",
+                "propertyValue": "D",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "61a11c89-7030-46ac-8691-8ef66d4ee6cc"
+              },
+              {
+                "id": "85c10f5b-41bc-4820-9d0a-42b3c305e24d",
+                "storeCode": "86784",
+                "propertyName": "State",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "0da774e9-b57f-423e-9242-96bd832a0e1e"
+              },
+              {
+                "id": "c644f75d-30ec-48a4-b221-4181aa6822fb",
+                "storeCode": "86784",
+                "propertyName": "SVR名",
+                "propertyValue": "福原SVR",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "7ac09949-0eb0-4c4b-a5c8-df9c4059f28a"
+              },
+              {
+                "id": "d15b8151-a09b-457b-b5f4-3703a696dca6",
+                "storeCode": "86784",
+                "propertyName": "オーブンタイプ",
+                "propertyValue": "&lt;選択してください&gt;",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "cea8a008-3878-4af9-9001-bbc045448a77"
+              },
+              {
+                "id": "39dae8eb-d161-4719-a14c-114ff1e068ab",
+                "storeCode": "86784",
+                "propertyName": "電話番号",
+                "propertyValue": "052-249-8484",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2e9afb2c-8545-4a5e-97e5-49fd455b74f1"
+              },
+              {
+                "id": "90ddfadd-ad49-4a04-8d7c-22d0806b6384",
+                "storeCode": "86784",
+                "propertyName": "確定商圏",
+                "propertyValue": "確定商圏",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "ea2230a1-d222-4165-9549-bac2a195171b"
+              },
+              {
+                "id": "371ac76e-bfff-4b8e-8d46-00a1df615fd4",
+                "storeCode": "86784",
+                "propertyName": "食材納品日",
+                "propertyValue": "43630",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "52c2a646-dd70-4543-81d2-e16b6d2367f6"
+              },
+              {
+                "id": "dc1d392b-796e-46d8-8c52-08356f855476",
+                "storeCode": "86784",
+                "propertyName": "最終営業日",
+                "propertyValue": "",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "da15c47c-6174-4cf8-9053-dc2d226d3941"
+              },
+              {
+                "id": "a8302673-15fb-46e6-8b16-0f27a49bfb5b",
+                "storeCode": "86784",
+                "propertyName": "車両(車種/台数)",
+                "propertyValue": "​自転車7台",
+                "startDate": "1985-09-30T00:00:00",
+                "endDate": null,
+                "propertyId": "2659ea43-7334-4d16-bf02-24f31bc3d5ba"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "nextPage": "https://localhost:5001/StoreInfos/Get?Page=2&Limit=10",
+    "previousPage": null,
+    "totalItems": 656,
+    "totalPages": 66
+  }

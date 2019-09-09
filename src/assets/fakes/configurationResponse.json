@@ -1,0 +1,175 @@
+{
+    "storeCode": "-2147483648",
+    "ipAddress": "::1",
+    "role": "System",
+    "propertiyDefines": [
+      {
+        "id": "29e98474-c304-453f-9619-8637dac21f64",
+        "propertyName": "DPII.No",
+        "displayName": "DPII.No",
+        "dataType": "string",
+        "displayOrder": 0
+      },
+      {
+        "id": "d285e8a6-448d-47c3-9447-1362b284d025",
+        "propertyName": "店舗名",
+        "displayName": "店舗名",
+        "dataType": "string",
+        "displayOrder": 1
+      },
+      {
+        "id": "9c7eca50-6726-43d6-a85a-fba3c79ca9f3",
+        "propertyName": "IPアドレス",
+        "displayName": "IPアドレス",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "0da774e9-b57f-423e-9242-96bd832a0e1e",
+        "propertyName": "State",
+        "displayName": "State",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "7ac09949-0eb0-4c4b-a5c8-df9c4059f28a",
+        "propertyName": "SVR名",
+        "displayName": "SVR名",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "af40d01c-705f-4262-bb47-728f8a12787b",
+        "propertyName": "TV Market",
+        "displayName": "TV Market",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "cea8a008-3878-4af9-9001-bbc045448a77",
+        "propertyName": "オーブンタイプ",
+        "displayName": "オーブンタイプ",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "2b8666ef-b78d-4e16-9ceb-69c9b7f008ca",
+        "propertyName": "クリーニング業者",
+        "displayName": "クリーニング業者",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "6f7d89fd-f021-42ac-a9c6-e65a2e4ae312",
+        "propertyName": "マッシュルーム初回発注日",
+        "displayName": "マッシュルーム初回発注日",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "3263a1f3-e296-4b9b-9873-e2b5401df99f",
+        "propertyName": "ユーザーまたはグループ",
+        "displayName": "ユーザーまたはグループ",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "3c818f4f-325d-4fe6-beb7-15e024fc35db",
+        "propertyName": "営業時間",
+        "displayName": "営業時間",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "ea2230a1-d222-4165-9549-bac2a195171b",
+        "propertyName": "確定商圏",
+        "displayName": "確定商圏",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "7b07fed2-ddbc-410e-b540-9f2a988ab300",
+        "propertyName": "工事費見積額",
+        "displayName": "工事費見積額",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "da15c47c-6174-4cf8-9053-dc2d226d3941",
+        "propertyName": "最終営業日",
+        "displayName": "最終営業日",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "2659ea43-7334-4d16-bf02-24f31bc3d5ba",
+        "propertyName": "車両(車種/台数)",
+        "displayName": "車両(車種/台数)",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "49b08819-5ab1-49e7-98bd-cdac5abb0782",
+        "propertyName": "住所・〒",
+        "displayName": "住所・〒",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "b03712aa-6ad1-47ea-af0b-45f3c8fed67e",
+        "propertyName": "出店区分",
+        "displayName": "出店区分",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "52c2a646-dd70-4543-81d2-e16b6d2367f6",
+        "propertyName": "食材納品日",
+        "displayName": "食材納品日",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "61a11c89-7030-46ac-8691-8ef66d4ee6cc",
+        "propertyName": "食材配送グループ",
+        "displayName": "食材配送グループ",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "61fa9dd6-2148-44f1-aac8-0e9c49cf068d",
+        "propertyName": "店舗引渡し日",
+        "displayName": "店舗引渡し日",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "2e9afb2c-8545-4a5e-97e5-49fd455b74f1",
+        "propertyName": "電話番号",
+        "displayName": "電話番号",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "ac4a9d64-9cb5-4d06-935f-26883d4cd93b",
+        "propertyName": "廃棄物収集業者",
+        "displayName": "廃棄物収集業者",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "b9dad767-7097-44c5-ad02-ac7f6cc14a04",
+        "propertyName": "包材・備品_初回納品日",
+        "displayName": "包材・備品_初回納品日",
+        "dataType": "string",
+        "displayOrder": 999
+      },
+      {
+        "id": "2cbc89a3-2a23-4113-8f32-a7e7fb6311b0",
+        "propertyName": "包材・備品初回曜日",
+        "displayName": "包材・備品初回曜日",
+        "dataType": "string",
+        "displayOrder": 999
+      }
+    ]
+  }
